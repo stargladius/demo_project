@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This script is based on https://unix.stackexchange.com/revisions/480191/9.
-
+# this is dumb comment line
 # Recommended SIZE setting for different drives:
 #   (SATA) SSD: 1024 (default)
 #   (ANY) HDD: 256
